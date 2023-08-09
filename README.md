@@ -44,7 +44,7 @@ You can find more documentation in the individual packages and in doxygen commen
 - If you are interested in Lanelet2's **projections**, you will find more [here](lanelet2_projection/doc/Map_Projections_Coordinate_Systems.md).
 - To get more information on how to create valid maps, see [here](lanelet2_maps/README.md).
 
-## Installation
+## Installation2
 
 ### Within ROS
 Lanelet2 has been released for ROS. Just install `ros-[distribution]-lanelet2`, e.g.:
