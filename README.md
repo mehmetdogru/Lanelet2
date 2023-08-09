@@ -35,7 +35,7 @@ Features:
 
 Lanelet2 is the successor of the old [liblanelet](https://github.com/phbender/liblanelet/tree/master/libLanelet) that was developed in 2013. If you know Lanelet1, you might be interested in [reading this](lanelet2_core/doc/Lanelet1Compability.md).
 
-## Documentation
+## Documentation2
 
 You can find more documentation in the individual packages and in doxygen comments. Here is an overview on the most important topics:
 - [Here](lanelet2_core/doc/LaneletPrimitives.md) is more information on the basic primitives that make up a Lanelet2 map.
